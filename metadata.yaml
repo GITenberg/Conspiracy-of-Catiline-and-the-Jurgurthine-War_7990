@@ -1,0 +1,35 @@
+_repo: Conspiracy-of-Catiline-and-the-Jurgurthine-War_7990
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Watson, J. S. (John Selby)
+    alias: Watson, John Selby
+    birthdate: 1804
+    deathdate: 1884
+    gutenberg_agent_id: '5174'
+    url: http://www.gutenberg.org/2009/agents/5174
+creator:
+  author:
+    agent_name: Sallust
+    alias: Sallustius Crispus, Gaius
+    birthdate: -86
+    deathdate: -34
+    gutenberg_agent_id: '2455'
+    url: http://www.gutenberg.org/2009/agents/2455
+    wikipedia: http://en.wikipedia.org/wiki/Sallust
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Conspiracy of Catiline, 65-62 B.C.'
+- !lcsh 'Jugurthine War, 111-105 B.C.'
+- !lcc 'PA'
+- GITenberg
+title: Conspiracy of Catiline and the Jurgurthine War
+url: http://www.gutenberg.org/ebooks/7990
